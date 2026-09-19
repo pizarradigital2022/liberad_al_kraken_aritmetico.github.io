@@ -4,7 +4,7 @@
 <userPreferences>
   <userPreference>
     <key>theme</key>
-    <value>base</value>
+    <value>neo</value>
   </userPreference>
 </userPreferences>
 <odeResources>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_theme</key>
-    <value>base</value>
+    <value>neo</value>
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1789850637976</value>
+    <value>1789851735184</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
